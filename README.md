@@ -34,10 +34,3 @@ This project is licensed under the GPL-3.0 license. See the [LICENSE](https://gi
 # Acknowledgements
 I was heavily inspired by the work of Elder Plinius on GitHub https://github.com/elder-plinius/, so be sure to check him out!
 #
-# 💖 Support the Future of Innovation: Donate to My Open Source Project on GitHub! 🚀
-Your donations will help me maintain and expand open-source projects like this one. Thank you!
-
-  <strong> ₿ Bitcoin address:</strong>
-  ```
-bc1qjqs4rx8lv3mxzkxaj4p3mpdyw86f6m829e89grplqdhack3tuguqhlngum
-  ```
